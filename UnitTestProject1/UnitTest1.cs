@@ -9,6 +9,7 @@ using OpenQA.Selenium.Support.UI;
 
 namespace SeleniumTests
 {
+
     [TestFixture]
     public class Untitled
     {
